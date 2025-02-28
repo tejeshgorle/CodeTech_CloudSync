@@ -1,3 +1,11 @@
+**COMPANY** : CODTECH IT SOLUTIONS
+**NAME** : TEJESH GORLE
+**INTERN ID** : CT12KMU
+**DOMAIN** : FULL STACK DEVELOPMENT
+**BATCH DURATION** : JAN 10,2025 TO MARCH 10, 2025
+**MENTOR NAME** : NEELA SANTHOSH
+
+
 # 🌤️ Real-Time Weather Webpage
 
 This **Weather Webpage** dynamically displays real-time weather details using a **Weather API from RapidAPI**. It features a beautifully styled, fully responsive design, making it easy to check weather conditions on any device.
